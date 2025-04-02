@@ -1,1 +1,1 @@
-"Client.exe" "/game/client/Client.exe" "https://github.com/rushyanek/laucnherupdate/raw/refs/heads/Server-Files/Client.zip" "7884800"
+"Client.exe" "/game/client/Client.exe" "https://github.com/rushyanek/laucnherupdate/raw/refs/heads/Server-Files/Client.zip" "7884954"
