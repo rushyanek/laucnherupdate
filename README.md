@@ -1,1 +1,1 @@
-# laucnherupdate
+magnet:?xt=urn:btih:52E4261CB774F89C2A3A6FD149E053F3439D5A43&dn=yana&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=http%3a%2f%2fretracker.hq.ertelecom.ru%2fannounce
