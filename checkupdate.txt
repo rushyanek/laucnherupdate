@@ -1,0 +1,3 @@
+"Client.exe" "/game/client/Client.exe" "82163823"
+"vEngine.dll" "/game/client/vEngine.dll" "2817632"
+"system.cpk" "/game/data/system.cpk" "2817362"
