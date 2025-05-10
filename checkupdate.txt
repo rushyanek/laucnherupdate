@@ -1,3 +1,1 @@
-"Client.exe" "/game/client/Client.exe" "https://github.com/rushyanek/laucnherupdate/raw/refs/heads/main/yana.torrent" "82163823"
-"vEngine.dll" "/game/client/vEngine.dll" "https://github.com/rushyanek/laucnherupdate/raw/refs/heads/main/yana.torrent" "2817632"
-"system.cpk" "/game/data/system.cpk" "https://github.com/rushyanek/laucnherupdate/raw/refs/heads/main/yana.torrent" "2817362"
+"Client.exe" "/game/client/Client.exe" "https://github.com/rushyanek/laucnherupdate/raw/refs/heads/Server-Files/Client.zip" "7884954"
